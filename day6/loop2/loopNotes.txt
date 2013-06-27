@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------------------
+        The While Loop
+        ---------------------------------------------
+        while (boolean statement){
+            statements....;
+        }
+        ---------------------------------------------
+        - while, check boolean, true? execute.
+            false? break out.
+        - inside a while loop, a variable can be declared. it will be cleared per iteration 
+-------------------------------------------------------------------------------------------------
+
+        The Sentinel Loop
+        --------------------------------------------
+        while user has not entered whatever
+            ask for input
+        
+        string i = "";
+        while (i != whatever){
+            cout << "type 'whatever'" ; 
+        }
+        --------------------------------------------
+
+
+        -A stream is a boolean variabl

@@ -1,0 +1,7 @@
+Available Editors
+- Emacs
+- Vim
+- nano
+- gedit
+
+Variable -  an instance of a data-type who value can change
